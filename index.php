@@ -105,7 +105,7 @@
                     <div class="row y-middle mb-50 md-mb-30">
                         <div class="col-md-6 sm-mb-30">
                             <div class="sec-title">
-                                <div class="sub-title primary">Subject Categories</div>
+                                <div class="sub-title primary">Subject Categorie</div>
                                 <h2 class="title mb-0">Our Top Categories </h2>
                             </div>
                         </div>
